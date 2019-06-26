@@ -10,4 +10,4 @@ commands;
 
 'kubectl describe pods'
 
-tbc...
+tbc.
